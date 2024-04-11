@@ -1,0 +1,112 @@
+[
+	{
+		"title": "Mesa de Comedor",
+		"description": "Amplia mesa ideal para compartir comidas en familia o con amigos.",
+		"price": 3500,
+		"thumbnail": "./rutaImagen",
+		"code": "H301",
+		"category": "Muebles",
+		"stock": 20,
+		"id": 1
+	},
+	{
+		"title": "Silla de Oficina",
+		"description": "Cómoda silla ergonómica perfecta para largas horas de trabajo frente al ordenador.",
+		"price": 120,
+		"thumbnail": "./rutaImagen",
+		"code": "M301",
+		"category": "Muebles",
+		"stock": 70,
+		"id": 2
+	},
+	{
+		"title": "Sillón Reclinable",
+		"description": "Sillón acolchado con sistema reclinable para máximo confort en el descanso.",
+		"price": 1500,
+		"thumbnail": "./rutaImagen",
+		"code": "H1N2",
+		"category": "Muebles",
+		"stock": 50,
+		"id": 3
+	},
+	{
+		"title": "Tabla de Cortar",
+		"description": "Tablero resistente ideal para cortar alimentos sin dañar la superficie.",
+		"price": 15000,
+		"thumbnail": "./rutaImagen",
+		"code": "B00C",
+		"category": "Cocina",
+		"stock": 25,
+		"id": 4
+	},
+	{
+		"title": "Televisor LED",
+		"description": "Televisor de última generación con pantalla LED y resolución Full HD.",
+		"price": 8500,
+		"thumbnail": "./rutaImagen",
+		"code": "PU7B",
+		"category": "Electrodoméstico",
+		"stock": 40,
+		"id": 5
+	},
+	{
+		"title": "Atril para Pintura",
+		"description": "Soporte ajustable para lienzos de diferentes tamaños, ideal para artistas.",
+		"price": 6300,
+		"thumbnail": "./rutaImagen",
+		"code": "P9U9",
+		"category": "Arte",
+		"stock": 20,
+		"id": 6
+	},
+	{
+		"title": "Cuadro Decorativo",
+		"description": "Cuadro artístico perfecto para dar un toque de elegancia a cualquier ambiente.",
+		"price": 800,
+		"thumbnail": "./rutaImagen",
+		"code": "C3P1",
+		"category": "Decoración",
+		"stock": 15,
+		"id": 7
+	},
+	{
+		"title": "Puerta de Madera",
+		"description": "Puerta sólida de madera de roble, ideal para cualquier tipo de construcción.",
+		"price": 13000,
+		"thumbnail": "./rutaImagen",
+		"code": "R2D3",
+		"category": "Construcción",
+		"stock": 8,
+		"id": 8
+	},
+	{
+		"title": "Ventana de Aluminio",
+		"description": "Ventana de aluminio resistente y duradera, perfecta para una adecuada ventilación.",
+		"price": 6000,
+		"thumbnail": "./rutaImagen",
+		"code": "D2F3",
+		"category": "Construcción",
+		"stock": 55,
+		"id": 9
+	},
+	{
+		"title": "Set de Cubiertos",
+		"description": "Set de cubiertos de acero inoxidable de alta calidad, ideal para cualquier cocina.",
+		"price": 2500,
+		"thumbnail": "./rutaImagen",
+		"code": "NH79",
+		"category": "Cocina",
+		"stock": 15,
+		"id": 10
+	},
+	{
+		"title": "Heladera con Freezer",
+		"description": "Heladera con freezer incorporado y sistema de enfriamiento eficiente.",
+		"price": 280,
+		"thumbnail": "./rutaImagen",
+		"code": "L6HH",
+		"category": "Electrodoméstico",
+		"stock": 38,
+		"id": 11
+	}
+]
