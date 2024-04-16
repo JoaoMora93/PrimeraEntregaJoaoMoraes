@@ -5,7 +5,7 @@ const fs=fs1.promises
 export default class ProductManager {
   constructor() {
     this.products = [];
-    this.PATH = './data/products.JSON'
+    this.PATH = './data/products.json'
     this.id = 0;
   }
 

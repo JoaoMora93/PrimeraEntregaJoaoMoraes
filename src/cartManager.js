@@ -5,7 +5,7 @@ const fs = fs1.promises;
 export default class CartManager {
     constructor() {
         this.cart = [];
-        this.PATH = './data/cart.JSON'
+        this.PATH = './data/cart.json'
         this.id = 0;
       }
 
